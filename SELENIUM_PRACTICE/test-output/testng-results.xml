@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Success:::::Dashboard « Stock Accounting       Dashboard « Stock Accounting]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-03-28T00:32:28 GMT-07:00" name="Default suite" finished-at="2023-03-28T00:32:34 GMT-07:00" duration-ms="5924">
+    <groups>
+    </groups>
+    <test started-at="2023-03-28T00:32:28 GMT-07:00" name="Default test" finished-at="2023-03-28T00:32:34 GMT-07:00" duration-ms="5924">
+      <class name="march24.Property_File">
+        <test-method is-config="true" signature="setup()[pri:0, instance:march24.Property_File@53045c6c]" started-at="2023-03-28T00:32:28 GMT-07:00" name="setup" finished-at="2023-03-28T00:32:33 GMT-07:00" duration-ms="4588" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLogin()[pri:0, instance:march24.Property_File@53045c6c]" started-at="2023-03-28T00:32:33 GMT-07:00" name="verifyLogin" finished-at="2023-03-28T00:32:33 GMT-07:00" duration-ms="684" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Login Success:::::Dashboard « Stock Accounting       Dashboard « Stock Accounting]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method is-config="true" signature="teardoen()[pri:0, instance:march24.Property_File@53045c6c]" started-at="2023-03-28T00:32:33 GMT-07:00" name="teardoen" finished-at="2023-03-28T00:32:34 GMT-07:00" duration-ms="619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardoen -->
+      </class> <!-- march24.Property_File -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
